@@ -1,0 +1,1 @@
+RewriteRule ^sitemap.xml$ index.php?route=extension/feed/google_sitemap [L]  
