@@ -1,24 +1,87 @@
-<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
-	
-	>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
 <channel>
-	<title>
-	Комментарии на сайте Всемирная организация CDI </title>
-	<atom:link href="https://wikimediafoundation.org/ru/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>https://wikimediafoundation.org/ru</link>
-	<description></description>
-	<lastBuildDate>Tue, 03 Aug 2021 20:33:22 +0000</lastBuildDate>
-	<sy:updatePeriod>
-	hourly	</sy:updatePeriod>
-	<sy:updateFrequency>
-	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.8</generator>
+<title>
+<![CDATA[ Squadron News RSS — WorldWide CDI Organization ]]>
+</title>
+<description>
+<![CDATA[ Squadron News RSS — WorldWide CDI Organization ]]>
+</description>
+<link>https://wwco-org.github.io/w/ru/news/ru/</link>
+<image>
+<url>
+https://wwco-org.github.io/Favicon/apple-touch-icon.png
+</url>
+<title>Squadron News RSS — WorldWide CDI Organization</title>
+<link>https://wwco-org.github.io/w/ru/news/ru/</link>
+</image>
+<generator>https://rss.app</generator>
+<lastBuildDate>Sat, 30 Sep 2023 19:04:08 GMT</lastBuildDate>
+<atom:link href="https://rss.app/feeds/WryW11uf1n1HfMsP.xml" rel="self" type="application/rss+xml"/>
+<language>
+<![CDATA[ en ]]>
+</language>
+<item>
+<title>
+<![CDATA[ Эскадра Новостей ]]>
+</title>
+<description>
+<![CDATA[
+<div><img src="https://raw.githubusercontent.com/wwco-org/w/master/ru/wp-content/themes/shiro/assets/src/png/M1.png?w=640" style="width: 100%;" /><div>Встречайте — Обновление M1 для всех проектов FKAWP Uneditable…</div></div>
+]]>
+</description>
+<link>https://wwco-org.github.io/w/ru/news/ru/5</link>
+<guid isPermaLink="false">4fc5572ce1b76347b1a0d3b38ada57d7</guid>
+<dc:creator>
+<![CDATA[ Всемирная организация CDI ]]>
+</dc:creator>
+<pubDate>Mon, 16 Jan 2023 20:58:05 GMT</pubDate>
+<media:content medium="image" url="https://raw.githubusercontent.com/wwco-org/w/master/ru/wp-content/themes/shiro/assets/src/png/M1.png?w=640"/>
+</item>
+<item>
+<title>
+<![CDATA[ Эскадра Новостей ]]>
+</title>
+<description>
+<![CDATA[
+<div><img src="https://wwco-org.github.io/w/ru/wp-content/themes/shiro/assets/src/jpg/wwco-usa.jpg?w=640" style="width: 100%;" /><div>В этом месяце, Всемирная организация CDI (WorldWide CDI Organization) — глобальная некоммерческая организация, которая делает знания бесплатными и доступными для всех во всем мире, — запускает серию кампаний по реализации проектов-членов FKAWP в Соединенных Штатах.…</div></div>
+]]>
+</description>
+<link>https://wwco-org.github.io/w/ru/news/ru/2</link>
+<guid isPermaLink="false">a4ac97f81060ea74a8b152054a1c3991</guid>
+<dc:creator>
+<![CDATA[ Всемирная организация CDI ]]>
+</dc:creator>
+<pubDate>Mon, 16 Jan 2023 20:58:05 GMT</pubDate>
+<media:content medium="image" url="https://wwco-org.github.io/w/ru/wp-content/themes/shiro/assets/src/jpg/wwco-usa.jpg?w=640"/>
+</item>
+<item>
+<title>
+<![CDATA[ Эскадра Новостей ]]>
+</title>
+<description>
+<![CDATA[
+<div><img src="https://wwco-org.github.io/w/ru/wp-content/uploads/sites/25/2021/11/WWCO-Flag.jpg?w=640" style="width: 100%;" /><div>Всемирная организация CDI за столь небольшой период времени своего существования уже стала гигантом в области онлайн-образования и распространения свободных знаний в интернете.…</div></div>
+]]>
+</description>
+<link>https://wwco-org.github.io/w/ru/news/ru/1</link>
+<guid isPermaLink="false">c0874be857772287a7bae66c70152dd1</guid>
+<dc:creator>
+<![CDATA[ Всемирная организация CDI ]]>
+</dc:creator>
+<pubDate>Fri, 07 Jan 2022 20:58:05 GMT</pubDate>
+<media:content medium="image" url="https://wwco-org.github.io/w/ru/wp-content/uploads/sites/25/2021/11/WWCO-Flag.jpg?w=640"/>
+</item>
+<item>
+<title>
+<![CDATA[ Больше ссылок ]]>
+</title>
+<link>
+https://wwco-org.github.io/w/ru/news/about/contact/
+</link>
+<guid isPermaLink="false">5a26d9c5ee49190d077113ed3da158ed</guid>
+<dc:creator>
+<![CDATA[ wwco-org.github.io ]]>
+</dc:creator>
+</item>
 </channel>
 </rss>
